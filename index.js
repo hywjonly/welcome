@@ -5,10 +5,10 @@ var typewriter = new Typewriter(app, {
   delay: 75,
 });
 
-//typewriter
- // .pauseFor(1000)
-//  .typeString('I am a software developer and content creator from the United States.') //Add your own tagline
- // .pauseFor(3000)
+<!--typewriter -->
+  <!-- .pauseFor(1000) -->
+<!--.typeString('I am a software developer and content creator from the United States.') //Add your own tagline -->
+ <!-- .pauseFor(3000) -->
   .start()
 
 
